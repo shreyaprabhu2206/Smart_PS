@@ -1,0 +1,10 @@
+Image,Ground Truth,Prediction,WER,CER
+prescription_01.png,ASHWINI CLINIC,Ashwini Clinic,1.0,0.7857142857142857
+prescription_02.png,Ashwini Clinic,Ashwini Clinic,0.0,0.0
+prescription_03.png,Atria Institute of Technology,America Institute of Technology,0.25,0.10344827586206896
+prescription_04.png,Atria,atria .,2.0,0.6
+prescription_05.png,Books contain paper,3 Books contain papers .,1.0,0.2631578947368421
+prescription_06.png,Satu is the greatest,# Satu is the greatest,0.25,0.1
+prescription_07.png,Bottle has water in it,Bottle has water in it .,0.2,0.09090909090909091
+prescription_08.png,Books contain paper,books contain Paper .,1.0,0.21052631578947367
+prescription_09.png,Books contain paper,Books contain father .,0.6666666666666666,0.2631578947368421

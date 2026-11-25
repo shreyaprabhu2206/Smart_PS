@@ -1,0 +1,44 @@
+
+A: Grayscale only
+prescription_01.png|0 1
+prescription_02.png|0 1
+prescription_03.png|0 1
+prescription_04.png|61
+prescription_05.png|3 Books contain papers .
+prescription_06.png|# Satu is the greatest
+prescription_07.png|Bottle has water in it .
+prescription_08.png|0 1
+prescription_09.png|0 0
+
+B: Grayscale + Autocontrast
+prescription_01.png|0 1
+prescription_02.png|a la
+prescription_03.png|0 1 )
+prescription_04.png|0 .
+prescription_05.png|8 Bools contain paper .
+prescription_06.png|# Satu is the greatest
+prescription_07.png|# Bottle has water in it
+prescription_08.png|0 0
+prescription_09.png|0 0
+
+C: Grayscale + Contrast
+prescription_01.png|0 1
+prescription_02.png|0 1
+prescription_03.png|0 1
+prescription_04.png|0
+prescription_05.png|3 Books contain papers .
+prescription_06.png|# Satu is the greatest
+prescription_07.png|Bottle has water in it .
+prescription_08.png|0 1
+prescription_09.png|0 0
+
+D: Full preprocessing
+prescription_01.png|0 1
+prescription_02.png|a la
+prescription_03.png|1st century
+prescription_04.png|2'
+prescription_05.png|8 Bools contain paper .
+prescription_06.png|# Satu is the greatest
+prescription_07.png|# Bottle has water in it
+prescription_08.png|0 1
+prescription_09.png|0 0
